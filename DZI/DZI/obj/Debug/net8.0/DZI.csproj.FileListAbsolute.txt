@@ -1,0 +1,14 @@
+C:\Users\Ivaylo\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.exe
+C:\Users\Ivaylo\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.deps.json
+C:\Users\Ivaylo\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.runtimeconfig.json
+C:\Users\Ivaylo\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.dll
+C:\Users\Ivaylo\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.pdb
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.AssemblyInfoInputs.cache
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.AssemblyInfo.cs
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.dll
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\refint\DZI.dll
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.pdb
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.genruntimeconfig.cache
+C:\Users\Ivaylo\source\repos\DZI\DZI\obj\Debug\net8.0\ref\DZI.dll
