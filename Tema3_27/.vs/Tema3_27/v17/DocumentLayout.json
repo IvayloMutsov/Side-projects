@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivaylo\\source\\repos\\Tema3_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1CD01-61CB-4303-82D6-42F9FA0BE7AF}|Tema3_27\\Tema3_27.csproj|c:\\users\\ivaylo\\source\\repos\\tema3_27\\tema3_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1CD01-61CB-4303-82D6-42F9FA0BE7AF}|Tema3_27\\Tema3_27.csproj|solutionrelative:tema3_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivaylo\\source\\repos\\Tema3_27\\Tema3_27\\Program.cs",
+              "RelativeDocumentMoniker": "Tema3_27\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivaylo\\source\\repos\\Tema3_27\\Tema3_27\\Program.cs",
+              "RelativeToolTip": "Tema3_27\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:50:00.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

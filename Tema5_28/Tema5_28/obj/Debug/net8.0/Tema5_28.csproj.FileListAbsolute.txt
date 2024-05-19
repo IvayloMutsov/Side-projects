@@ -1,0 +1,14 @@
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\bin\Debug\net8.0\Tema5_28.exe
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\bin\Debug\net8.0\Tema5_28.deps.json
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\bin\Debug\net8.0\Tema5_28.runtimeconfig.json
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\bin\Debug\net8.0\Tema5_28.dll
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\bin\Debug\net8.0\Tema5_28.pdb
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.AssemblyInfoInputs.cache
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.AssemblyInfo.cs
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.dll
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\refint\Tema5_28.dll
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.pdb
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\Tema5_28.genruntimeconfig.cache
+C:\Users\Ivaylo\source\repos\Tema5_28\Tema5_28\obj\Debug\net8.0\ref\Tema5_28.dll

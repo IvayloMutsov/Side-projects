@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|c:\\users\\ivaylo\\source\\repos\\tema4_25\\tema4_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|solutionrelative:tema4_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|c:\\users\\ivaylo\\source\\repos\\tema4_25\\tema4_28\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|solutionrelative:tema4_28\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|c:\\users\\ivaylo\\source\\repos\\tema4_25\\tema4_28\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|solutionrelative:tema4_28\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|c:\\users\\ivaylo\\source\\repos\\tema4_25\\tema4_28\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF73AB0-6F6F-4195-A183-471C564671C0}|Tema4_28\\Tema4_28.csproj|solutionrelative:tema4_28\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Reader.cs",
+              "RelativeDocumentMoniker": "Tema4_28\\Reader.cs",
+              "ToolTip": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Reader.cs",
+              "RelativeToolTip": "Tema4_28\\Reader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:04:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Library.cs",
+              "RelativeDocumentMoniker": "Tema4_28\\Library.cs",
+              "ToolTip": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Library.cs",
+              "RelativeToolTip": "Tema4_28\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:53:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Book.cs",
+              "RelativeDocumentMoniker": "Tema4_28\\Book.cs",
+              "ToolTip": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Book.cs",
+              "RelativeToolTip": "Tema4_28\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:44:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Program.cs",
+              "RelativeDocumentMoniker": "Tema4_28\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivaylo\\source\\repos\\Tema4_25\\Tema4_28\\Program.cs",
+              "RelativeToolTip": "Tema4_28\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:43:28.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\bin\Debug\net8.0\DZI_Exersice.exe
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\bin\Debug\net8.0\DZI_Exersice.deps.json
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\bin\Debug\net8.0\DZI_Exersice.runtimeconfig.json
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\bin\Debug\net8.0\DZI_Exersice.dll
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\bin\Debug\net8.0\DZI_Exersice.pdb
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.AssemblyInfoInputs.cache
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.AssemblyInfo.cs
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.dll
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\refint\DZI_Exersice.dll
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.pdb
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\DZI_Exersice.genruntimeconfig.cache
+C:\Users\Ivaylo\source\repos\DZI_Exersice\DZI_Exersice\obj\Debug\net8.0\ref\DZI_Exersice.dll

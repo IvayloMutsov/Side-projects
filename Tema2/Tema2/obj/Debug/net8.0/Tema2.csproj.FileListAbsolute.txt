@@ -1,0 +1,14 @@
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\bin\Debug\net8.0\Tema2.exe
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\bin\Debug\net8.0\Tema2.deps.json
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\bin\Debug\net8.0\Tema2.runtimeconfig.json
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\bin\Debug\net8.0\Tema2.dll
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\bin\Debug\net8.0\Tema2.pdb
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfoInputs.cache
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfo.cs
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.dll
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\refint\Tema2.dll
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.pdb
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\Tema2.genruntimeconfig.cache
+C:\Users\Ivaylo\source\repos\Tema2\Tema2\obj\Debug\net8.0\ref\Tema2.dll
