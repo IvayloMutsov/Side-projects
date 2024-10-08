@@ -1,0 +1,4 @@
+name: AFK
+version: '1.0-SNAPSHOT'
+main: org.afk.afk.AFK
+author: jesusa

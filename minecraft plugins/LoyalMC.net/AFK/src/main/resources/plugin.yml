@@ -1,0 +1,4 @@
+name: AFK
+version: '${project.version}'
+main: org.afk.afk.AFK
+author: jesusa

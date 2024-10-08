@@ -1,0 +1,41 @@
+name: GoldBank
+version: '1.0-SNAPSHOT'
+main: org.bank.goldbank.GoldBank
+commands:
+  gold:
+    description: Gold bank command
+    aliases: [gb]
+    usage: /gold [deposit|withdraw|balance] [amount]
+    permission: goldbank.use
+    permission-message: You do not have permission to use this command.
+  gold deposit:
+    description: Deposit gold into your account
+    usage: /gold deposit [amount]
+    permission: goldbank.deposit
+    permission-message: You do not have permission to deposit gold.
+  gold withdraw:
+    description: Withdraw gold from your account
+    usage: /gold withdraw [amount]
+    permission: goldbank.withdraw
+    permission-message: You do not have permission to withdraw gold.
+  gold balance:
+    description: Check your current gold balance
+    usage: /gold balance
+    permission: goldbank.balance
+    permission-message: You do not have permission to check your balance.
+    permissions:
+      goldbank.use:
+        description: Allows the player to use the gold bank command
+        default: true
+      goldbank.deposit:
+        description: Allows the player to deposit gold into their account
+        default: true
+      goldbank.withdraw:
+        description: Allows the player to withdraw gold from their account
+        default: true
+      goldbank.balance:
+        description: Allows the player to check their current gold balance
+        default: true
+      goldbank.admin:
+        description: Allows the player to manage the gold bank
+        default: op

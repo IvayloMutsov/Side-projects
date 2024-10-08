@@ -1,0 +1,13 @@
+name: GoldShop
+version: 1.0
+author: jesusa
+main: com.example.goldshop.GoldShopPlugin
+commands:
+  goldshop:
+    description: Opens the gold shop menu
+    usage: /goldshop
+    aliases: /gs
+permissions:
+  goldshop.use:
+    description: Allows a player to use the gold shop
+    default: true
